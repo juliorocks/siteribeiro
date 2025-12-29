@@ -12,7 +12,7 @@ export const AboutSection = () => {
                         <img
                             src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=2670&auto=format&fit=crop"
                             alt="Soldador fabricando secador de café"
-                            className="relative rounded-2xl shadow-2xl w-full h-[500px] object-cover hover:scale-[1.02] transition-transform duration-500"
+                            className="relative rounded-2xl shadow-2xl w-full h-auto aspect-video md:aspect-auto md:h-[500px] object-cover hover:scale-[1.02] transition-transform duration-500"
                         />
 
                         {/* Validated Badge */}
