@@ -54,7 +54,7 @@ export const AboutSection = () => {
                                 { icon: Award, label: "Experiência", value: "30+ Anos" },
                                 { icon: MapPin, label: "Entrega", value: "Nacional" },
                                 { icon: Check, label: "Fabricação", value: "100% Própria" },
-                                { icon: Shield, label: "Clientes", value: "500+ Satisfeitos" },
+                                { icon: Shield, label: "Clientes", value: "100+ Satisfeitos" },
                             ].map((stat, index) => (
                                 <div key={index} className="flex gap-4 items-start p-4 hover:bg-gray-50 rounded-lg transition-colors border border-transparent hover:border-gray-100">
                                     <div className="bg-primary/5 p-2.5 rounded-lg text-primary mt-1">
